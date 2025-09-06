@@ -42,12 +42,6 @@ Add new problems, improve solutions, or fix errors.
 3. Include a README and your solution file(s).
 4. Make a pull request describing your changes.
 
-## 📄 License
-
-Open-source under the [MIT License](LICENSE).
-
 ---
 
 _For questions, suggestions, or to collaborate, open an issue or pull request!_
-
-Happy coding! 🚀
