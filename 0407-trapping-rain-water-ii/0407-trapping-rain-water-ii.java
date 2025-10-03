@@ -1,77 +1,76 @@
 class Solution {
+    int[] dRow = { 0, 0, -1, 1 };
+    int[] dCol = { -1, 1, 0, 0 };
+
     public int trapRainWater(int[][] heightMap) {
-        int m = heightMap.length;
-        int n = heightMap[0].length;
-        
-        // initialization
-        int[][] vols = new int[m][n];
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
+        int n = heightMap.length;
+        int m = heightMap[0].length;
 
-                vols[i][j] = heightMap[i][j];
-            }
+        boolean[][] visited = new boolean[n][m];
+
+        PriorityQueue<Cell> pq = new PriorityQueue<>();
+
+        for (int i = 0; i < n; i++) {
+            pq.offer(new Cell(heightMap[i][0], i, 0));
+            pq.offer(new Cell(heightMap[i][m - 1], i, m - 1));
+            visited[i][0] = true;
+            visited[i][m - 1] = true;
         }
 
-        //spread
-        boolean upt = true;
-        boolean init = true;
+        for (int j = 0; j < m; j++) {
+            pq.offer(new Cell(heightMap[0][j], 0, j));
+            pq.offer(new Cell(heightMap[n - 1][j], n - 1, j));
+            visited[0][j] = true;
+            visited[n - 1][j] = true;
+        }
 
-        while (upt) {
-            upt = false;
+        int ans = 0;
 
-            // from left top
-            for (int i = 1; i < m - 1; i++) {
-                for (int j = 1; j < n - 1; j++) {
+        while (!pq.isEmpty()) {
+            Cell curr = pq.poll();
 
-                    int val = Math.max(
-                        heightMap[i][j], 
-                        Math.min(
-                            vols[i - 1][j],
-                            vols[i][j - 1]
-                            )
-                        );
+            int currI = curr.i;
+            int currJ = curr.j;
+            int minheight = curr.height;
 
-                    if (init || vols[i][j] > val) {
-                        vols[i][j] = val;
-                        upt = true;
+            for (int dir = 0; dir < 4; dir++) {
+                int nextI = currI + dRow[dir];
+                int nextJ = currJ + dCol[dir];
+
+                if (isValidCell(nextI, nextJ, n, m) && !visited[nextI][nextJ]) {
+                    int nextHeight = heightMap[nextI][nextJ];
+
+                    if (nextHeight < minheight) {
+                        ans += (minheight - nextHeight);
                     }
-                }
-            }
 
-            init = false;
-
-            //from down right
-            for (int i = m - 2; i >= 1; i--) {
-                for (int j = n - 2; j >= 1; j--) {
-
-                    int val = Math.max(
-                        heightMap[i][j], 
-                        Math.min(
-                            vols[i + 1][j], 
-                            vols[i][j + 1]
-                            )
-                        );
-
-                    if (vols[i][j] > val) {
-                        vols[i][j] = val;
-                        upt = true;
-                    }
+                    pq.offer(new Cell(Math.max(nextHeight, minheight), nextI, nextJ));
+                    visited[nextI][nextJ] = true;
                 }
             }
         }
 
-        // calculate result
-        int res = 0;
-        for (int i = 1; i < m - 1; i++) {
-            for (int j = 1; j < n - 1; j++) {
+        return ans;
+    }
 
-                if (vols[i][j] > heightMap[i][j]) {
-                    res += vols[i][j] - heightMap[i][j];
-                }
-            }
+    private static class Cell implements Comparable<Cell> {
+        int height;
+        int i;
+        int j;
+
+        public Cell(int height, int i, int j) {
+            this.height = height;
+            this.i = i;
+            this.j = j;
         }
 
-        
-        return res;
+        @Override
+        public int compareTo(Cell other) {
+            return Integer.compare(this.height, other.height);
+        }
+    }
+
+    private boolean isValidCell(int i, int j, int n, int m) {
+        return i >= 0 && j >= 0 && i < n && j < m;
     }
 }
