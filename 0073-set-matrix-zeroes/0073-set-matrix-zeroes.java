@@ -1,28 +1,46 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int[][] dirs = new int[][]{ {1, 0}, {-1, 0}, {0, 1}, {0, -1} };
-        List<Pair<Integer, Integer>> zeros = new ArrayList<>();
+        boolean firstRowZero = false;
+        boolean firstColZero = false;
 
         for (int i = 0; i < matrix.length; i++) {
-            for (int j = 0; j < matrix[0].length; j++) {
+            if (matrix[i][0] == 0) {
+                firstRowZero = true;
+            }
+        }
+
+        for (int i = 0; i < matrix[0].length; i++) {
+            if (matrix[0][i] == 0) {
+                firstColZero = true;
+            }
+        }
+
+        for (int i = 1; i < matrix.length; i++) {
+            for (int j = 1; j < matrix[0].length; j++) {
                 if (matrix[i][j] == 0) {
-                    zeros.add(new Pair<>(i, j));
+                    matrix[i][0] = 0;
+                    matrix[0][j] = 0;
                 }
             }
         }
 
-        for (Pair<Integer, Integer> p : zeros) {
-            int x = p.getKey();
-            int y = p.getValue();
-
-            for (int[] dir : dirs) {
-                int nx = x + dir[0];
-                int ny = y + dir[1];
-                while (nx >= 0 && nx < matrix.length && ny >= 0 && ny < matrix[0].length) {
-                    matrix[nx][ny] = 0;
-                    nx += dir[0];
-                    ny += dir[1];
+        for (int i = matrix.length - 1; i >= 0; i--) {
+            for (int j = matrix[0].length - 1; j >= 0; j--) {
+                if (matrix[i][0] == 0 || matrix[0][j] == 0) {
+                    matrix[i][j] = 0;
                 }
+            }
+        }
+
+        if (firstRowZero) {
+            for (int i = 0; i < matrix.length; i++) {
+                matrix[i][0] = 0;
+            } 
+        }
+
+        if (firstColZero) {
+            for (int i = 0; i < matrix[0].length; i++) {
+                matrix[0][i] = 0;
             }
         }
     }
