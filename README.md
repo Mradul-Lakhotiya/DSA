@@ -54,6 +54,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3531-count-covered-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3531-count-covered-buildings/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +81,12 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3531-count-covered-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3531-count-covered-buildings/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3531-count-covered-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3531-count-covered-buildings/) | Medium |
 <!---LeetCode Topics End-->
