@@ -60,6 +60,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3531-count-covered-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3531-count-covered-buildings/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +97,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3531-count-covered-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3531-count-covered-buildings/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +108,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,4 +121,5 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 <!---LeetCode Topics End-->
