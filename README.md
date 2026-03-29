@@ -126,4 +126,8 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 <!---LeetCode Topics End-->
