@@ -99,12 +99,14 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3531-count-covered-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3531-count-covered-buildings/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3531-count-covered-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3531-count-covered-buildings/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -130,4 +132,5 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 <!---LeetCode Topics End-->
