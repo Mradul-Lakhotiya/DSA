@@ -145,6 +145,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -162,4 +163,8 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
