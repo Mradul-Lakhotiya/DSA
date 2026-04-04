@@ -54,6 +54,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0496-next-greater-element-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0565-array-nesting](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0565-array-nesting/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0735-asteroid-collision](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0815-bus-routes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0815-bus-routes/) | Hard |
 | [1122-relative-sort-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1122-relative-sort-array/) | Easy |
@@ -122,6 +123,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0815-bus-routes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0815-bus-routes/) | Hard |
 | [1122-relative-sort-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -131,6 +133,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1122-relative-sort-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [2751-robot-collisions](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2751-robot-collisions/) | Hard |
@@ -224,6 +227,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1122-relative-sort-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1122-relative-sort-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -233,6 +237,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
