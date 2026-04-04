@@ -71,6 +71,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3477-fruits-into-baskets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3531-count-covered-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3531-count-covered-buildings/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -106,6 +107,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3477-fruits-into-baskets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +164,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3080-mark-elements-on-array-by-performing-queries/) | Medium |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
+| [3477-fruits-into-baskets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -247,4 +250,12 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0231-power-of-two/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 <!---LeetCode Topics End-->
