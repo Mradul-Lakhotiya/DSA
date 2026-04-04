@@ -59,6 +59,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -159,6 +160,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
