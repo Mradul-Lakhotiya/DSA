@@ -178,6 +178,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1332-remove-palindromic-subsequences](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1487-making-file-names-unique](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1487-making-file-names-unique/) | Medium |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
@@ -243,6 +244,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [1332-remove-palindromic-subsequences](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
