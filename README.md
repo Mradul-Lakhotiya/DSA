@@ -195,12 +195,14 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0496-next-greater-element-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0735-asteroid-collision/) | Medium |
+| [0901-online-stock-span](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0901-online-stock-span/) | Medium |
 | [2751-robot-collisions](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2751-robot-collisions/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0901-online-stock-span](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0901-online-stock-span/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +221,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0155-min-stack/) | Medium |
+| [0901-online-stock-span](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0901-online-stock-span/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,4 +265,8 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
