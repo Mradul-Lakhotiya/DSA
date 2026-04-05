@@ -1,27 +1,19 @@
 class StockSpanner {
-    List<Integer> list;
-    int size;
+    Deque<int[]> st;
 
     public StockSpanner() {
-        list = new ArrayList<>();
-        size = 0;
+        st = new ArrayDeque<>();    
     }
     
     public int next(int price) {
-        int res = 1;
-        list.add(price);
-        size++;
-        
-        for (int i = size - 2; i >= 0; i--) {
-            if (list.get(i) <= price) {
-                res++;
-            }
-            else {
-                return res;
-            }
+        int ans = 1;
+
+        while (!st.isEmpty() && st.peekFirst()[0] <= price) {
+            ans += st.pollFirst()[1];
         }
 
-        return res;
+        st.offerFirst(new int[]{price, ans});
+        return ans;
     }
 }
 
