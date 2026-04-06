@@ -17,9 +17,6 @@ class Solution {
 
         while (count < k) {
             temp++;
-            if (count == k) {
-                return temp;
-            }
             count++;
         }
 
