@@ -1,4 +1,3 @@
-// Added using AI
 class Robot {
     int x, y, width, height;
     String dir;
