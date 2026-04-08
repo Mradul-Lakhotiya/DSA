@@ -82,6 +82,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3531-count-covered-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3531-count-covered-buildings/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +186,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +251,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
