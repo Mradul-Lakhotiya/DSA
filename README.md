@@ -174,6 +174,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0565-array-nesting](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0565-array-nesting/) | Medium |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -217,6 +218,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0155-min-stack](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0735-asteroid-collision](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0901-online-stock-span/) | Medium |
 | [2751-robot-collisions](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2751-robot-collisions/) | Hard |
@@ -294,4 +296,8 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0901-online-stock-span/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
