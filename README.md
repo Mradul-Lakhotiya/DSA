@@ -70,6 +70,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1539-kth-missing-positive-number](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2751-robot-collisions/) | Hard |
@@ -149,6 +150,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1122-relative-sort-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1487-making-file-names-unique](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1487-making-file-names-unique/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3080-mark-elements-on-array-by-performing-queries/) | Medium |
 | [3531-count-covered-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3531-count-covered-buildings/) | Medium |
@@ -197,6 +199,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
+| [2367-number-of-arithmetic-triplets](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## String
@@ -278,6 +281,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [1332-remove-palindromic-subsequences](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
