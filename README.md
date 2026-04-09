@@ -179,6 +179,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0565-array-nesting](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0565-array-nesting/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0814-binary-tree-pruning/) | Medium |
@@ -245,6 +246,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0815-bus-routes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0815-bus-routes/) | Hard |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 ## String Matching
@@ -310,6 +312,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0814-binary-tree-pruning/) | Medium |
 ## Graph Theory
@@ -319,5 +322,6 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0814-binary-tree-pruning/) | Medium |
 <!---LeetCode Topics End-->
