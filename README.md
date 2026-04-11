@@ -51,6 +51,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -128,6 +129,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -155,6 +157,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -177,6 +180,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1122-relative-sort-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
@@ -305,6 +309,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [1332-remove-palindromic-subsequences](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
