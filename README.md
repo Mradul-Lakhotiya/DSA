@@ -101,6 +101,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0070-climbing-stairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -234,6 +235,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0820-short-encoding-of-words](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0820-short-encoding-of-words/) | Medium |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1332-remove-palindromic-subsequences](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
 | [1487-making-file-names-unique](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1487-making-file-names-unique/) | Medium |
