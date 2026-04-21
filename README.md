@@ -76,6 +76,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1539-kth-missing-positive-number](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
@@ -241,6 +242,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -403,4 +405,8 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 <!---LeetCode Topics End-->
