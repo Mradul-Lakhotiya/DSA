@@ -74,6 +74,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1487-making-file-names-unique](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1487-making-file-names-unique/) | Medium |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -226,6 +227,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
