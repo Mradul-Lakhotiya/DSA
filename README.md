@@ -280,6 +280,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0820-short-encoding-of-words](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0820-short-encoding-of-words/) | Medium |
