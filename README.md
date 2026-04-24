@@ -66,6 +66,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0874-walking-robot-simulation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0994-rotting-oranges/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1122-relative-sort-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1122-relative-sort-array/) | Easy |
@@ -316,6 +317,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0735-asteroid-collision](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0901-online-stock-span/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2751-robot-collisions](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2751-robot-collisions/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -324,6 +326,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0503-next-greater-element-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0901-online-stock-span](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0901-online-stock-span/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -413,6 +416,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0814-binary-tree-pruning/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -422,6 +426,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0814-binary-tree-pruning/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -436,4 +441,8 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [1202-smallest-string-with-swaps](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
