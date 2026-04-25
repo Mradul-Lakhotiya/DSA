@@ -148,6 +148,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0441-arranging-coins](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0441-arranging-coins/) | Easy |
@@ -401,6 +402,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
 ## Segment Tree
