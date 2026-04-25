@@ -126,6 +126,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0062-unique-paths](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0198-house-robber](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0198-house-robber/) | Medium |
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
@@ -300,6 +301,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
