@@ -5,8 +5,10 @@ class Solution {
         }
 
         if (n < 0) {
-            n = -n;
+            long newN = n;
+            newN = -newN;
             x = 1 / x;
+            n = (int)newN;
         }
 
         if (n % 2 == 0) {
