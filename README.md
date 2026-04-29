@@ -109,6 +109,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3080-mark-elements-on-array-by-performing-queries/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3225-maximum-score-from-grid-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -138,6 +139,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [3225-maximum-score-from-grid-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -152,6 +154,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2352-equal-row-and-column-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3225-maximum-score-from-grid-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -268,6 +271,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2615-sum-of-distances](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2615-sum-of-distances/) | Medium |
+| [3225-maximum-score-from-grid-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
