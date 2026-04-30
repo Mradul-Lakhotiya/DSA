@@ -123,6 +123,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -141,6 +142,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2463-minimum-total-distance-traveled](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
