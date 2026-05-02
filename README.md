@@ -138,6 +138,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0396-rotate-function](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0788-rotated-digits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
@@ -178,6 +179,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0396-rotate-function](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0441-arranging-coins](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
+| [0788-rotated-digits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2849-determine-if-a-cell-is-reachable-at-a-given-time/) | Medium |
