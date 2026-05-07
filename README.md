@@ -124,6 +124,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3660-jump-game-ix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3660-jump-game-ix/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -150,6 +151,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2463-minimum-total-distance-traveled](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3660-jump-game-ix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3660-jump-game-ix/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Matrix
