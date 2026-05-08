@@ -123,6 +123,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3546-equal-sum-grid-partition-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3660-jump-game-ix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3660-jump-game-ix/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -194,6 +195,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Binary Search
@@ -258,6 +260,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3531-count-covered-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3531-count-covered-buildings/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -398,6 +401,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -533,4 +537,8 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0062-unique-paths/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 <!---LeetCode Topics End-->
