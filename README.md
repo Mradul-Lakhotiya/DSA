@@ -93,6 +93,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1848-minimum-distance-to-the-target-element](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1861-rotating-the-box/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -165,6 +166,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1861-rotating-the-box](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1861-rotating-the-box/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
@@ -318,6 +320,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0657-robot-return-to-origin](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0735-asteroid-collision](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
