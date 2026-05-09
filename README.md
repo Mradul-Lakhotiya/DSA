@@ -72,6 +72,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0820-short-encoding-of-words](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0994-rotting-oranges](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -145,6 +146,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0788-rotated-digits/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
@@ -379,6 +381,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0735-asteroid-collision](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0901-online-stock-span/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2751-robot-collisions](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2751-robot-collisions/) | Hard |
 ## Monotonic Stack
@@ -388,6 +391,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0503-next-greater-element-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0901-online-stock-span](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0901-online-stock-span/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
