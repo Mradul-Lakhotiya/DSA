@@ -107,6 +107,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2463-minimum-total-distance-traveled](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -331,6 +332,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2075-decode-the-slanted-ciphertext](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3080-mark-elements-on-array-by-performing-queries/) | Medium |
