@@ -210,6 +210,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0278-first-bad-version/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0441-arranging-coins](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -558,4 +559,8 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
