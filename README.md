@@ -83,6 +83,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1202-smallest-string-with-swaps](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1306-jump-game-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -331,6 +332,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0814-binary-tree-pruning](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1306-jump-game-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
@@ -425,6 +427,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0815-bus-routes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0815-bus-routes/) | Hard |
 | [0994-rotting-oranges](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1306-jump-game-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
