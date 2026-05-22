@@ -63,6 +63,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0198-house-robber](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0198-house-robber/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0396-rotate-function](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0396-rotate-function/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -241,6 +242,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
@@ -302,6 +304,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1122-relative-sort-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1122-relative-sort-array/) | Easy |
