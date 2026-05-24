@@ -87,6 +87,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1306-jump-game-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
@@ -165,6 +166,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0907-sum-of-subarray-minimums](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1340-jump-game-v](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
@@ -311,6 +313,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1122-relative-sort-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [1340-jump-game-v](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
