@@ -169,6 +169,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1340-jump-game-v](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1871-jump-game-vii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -334,6 +335,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1871-jump-game-vii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2615-sum-of-distances](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2615-sum-of-distances/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -401,6 +403,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1487-making-file-names-unique](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1487-making-file-names-unique/) | Medium |
 | [1544-make-the-string-great](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1544-make-the-string-great/) | Easy |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
+| [1871-jump-game-vii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
@@ -515,6 +518,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1052-grumpy-bookstore-owner/) | Medium |
+| [1871-jump-game-vii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
