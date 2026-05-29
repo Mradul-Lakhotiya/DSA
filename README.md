@@ -77,6 +77,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0822-card-flipping-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0822-card-flipping-game/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0994-rotting-oranges](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -252,6 +253,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
@@ -317,6 +319,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [1122-relative-sort-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
@@ -515,6 +518,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [1332-remove-palindromic-subsequences](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1861-rotating-the-box/) | Medium |
