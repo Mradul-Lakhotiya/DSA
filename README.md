@@ -216,6 +216,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0396-rotate-function](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0441-arranging-coins](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0788-rotated-digits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1922-count-good-numbers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1922-count-good-numbers/) | Medium |
@@ -239,6 +240,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0278-first-bad-version](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0278-first-bad-version/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0441-arranging-coins](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0441-arranging-coins/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -520,6 +522,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [1332-remove-palindromic-subsequences](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
