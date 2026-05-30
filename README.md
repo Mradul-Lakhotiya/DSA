@@ -135,6 +135,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3080-mark-elements-on-array-by-performing-queries/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3161-block-placement-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3161-block-placement-queries/) | Hard |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -252,6 +253,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2540-minimum-common-value](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
+| [3161-block-placement-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -562,6 +564,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3161-block-placement-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3161-block-placement-queries/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -645,4 +648,8 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0278-first-bad-version/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3161-block-placement-queries/) | Hard |
 <!---LeetCode Topics End-->
