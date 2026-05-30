@@ -146,6 +146,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3546-equal-sum-grid-partition-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
+| [3618-split-array-by-prime-indices](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3660-jump-game-ix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3660-jump-game-ix/) | Medium |
@@ -225,6 +226,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3618-split-array-by-prime-indices](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -621,6 +623,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3618-split-array-by-prime-indices](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
