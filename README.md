@@ -114,6 +114,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2126-destroying-asteroids](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -277,6 +278,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2126-destroying-asteroids](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -357,6 +359,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
