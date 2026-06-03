@@ -83,6 +83,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1052-grumpy-bookstore-owner/) | Medium |
+| [1090-largest-values-from-labels](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1122-relative-sort-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
@@ -273,6 +274,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0767-reorganize-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0767-reorganize-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0881-boats-to-save-people/) | Medium |
+| [1090-largest-values-from-labels](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
@@ -313,6 +315,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0820-short-encoding-of-words](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0822-card-flipping-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0822-card-flipping-game/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1090-largest-values-from-labels](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1122-relative-sort-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1345-jump-game-iv](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1345-jump-game-iv/) | Hard |
@@ -351,6 +354,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0594-longest-harmonious-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0767-reorganize-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0767-reorganize-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0881-boats-to-save-people/) | Medium |
+| [1090-largest-values-from-labels](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1122-relative-sort-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
@@ -550,6 +554,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0767-reorganize-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0767-reorganize-string/) | Medium |
+| [1090-largest-values-from-labels](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1122-relative-sort-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
