@@ -3,31 +3,20 @@ class Solution {
         int ans = 0;
 
         for (int i = Math.max(num1, 101); i <= num2; i++) {
-            ans += getWaves(makeArray(i));
+            ans += getWaves(i);
         }
 
         return ans;
     }
 
-    int[] makeArray(int number) {
-        String s = String.valueOf(number);
-        int[] digits = new int[s.length()];
+    int getWaves(int num) {
+        char[] s = Integer.toString(num).toCharArray();
 
-        for (int i = 0; i < s.length(); i++) {
-            digits[i] = s.charAt(i) - '0';
-        }
-
-        return digits;
-    }
-
-    int getWaves(int[] arr) {
         int res = 0;
 
-        for (int i = 1; i < arr.length - 1; i++) {
-            if (arr[i - 1] > arr[i] && arr[i + 1] > arr[i]) {
-                res++;
-            }
-            else if (arr[i - 1] < arr[i] && arr[i + 1] < arr[i]) {
+        for (int i = 1; i < s.length - 1; i++) {
+            if ((s[i] > s[i - 1] && s[i] > s[i + 1]) ||
+                (s[i] < s[i - 1] && s[i] < s[i + 1])) {
                 res++;
             }
         }
