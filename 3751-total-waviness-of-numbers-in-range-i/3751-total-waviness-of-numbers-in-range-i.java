@@ -10,15 +10,25 @@ class Solution {
     }
 
     int getWaves(int num) {
-        char[] s = Integer.toString(num).toCharArray();
-
         int res = 0;
 
-        for (int i = 1; i < s.length - 1; i++) {
-            if ((s[i] > s[i - 1] && s[i] > s[i + 1]) ||
-                (s[i] < s[i - 1] && s[i] < s[i + 1])) {
+        int right = num % 10;
+        num /= 10;
+
+        int mid = num % 10;
+        num /= 10;
+
+        while (num > 0) {
+            int left = num % 10;
+
+            if ((mid > left && mid > right) ||
+                (mid < left && mid < right)) {
                 res++;
             }
+
+            right = mid;
+            mid = left;
+            num /= 10;
         }
 
         return res;
