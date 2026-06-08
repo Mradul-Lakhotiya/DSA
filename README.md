@@ -116,6 +116,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -426,6 +427,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1914-cyclically-rotating-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -580,6 +582,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1332-remove-palindromic-subsequences](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1861-rotating-the-box/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2540-minimum-common-value](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
