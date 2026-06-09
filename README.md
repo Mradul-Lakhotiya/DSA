@@ -228,6 +228,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0062-unique-paths](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0292-nim-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0292-nim-game/) | Easy |
 | [0396-rotate-function](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0441-arranging-coins](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
@@ -660,6 +661,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -702,4 +704,8 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
