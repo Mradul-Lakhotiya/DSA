@@ -340,6 +340,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2540-minimum-common-value](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2716-minimize-string-length](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2716-minimize-string-length/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
@@ -478,6 +479,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2716-minimize-string-length](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2716-minimize-string-length/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
