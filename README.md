@@ -364,6 +364,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3531-count-covered-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3531-count-covered-buildings/) | Medium |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -506,6 +507,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -597,6 +599,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
