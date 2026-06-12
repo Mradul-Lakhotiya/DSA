@@ -67,6 +67,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0565-array-nesting](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0565-array-nesting/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -183,6 +184,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0198-house-robber](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0198-house-robber/) | Medium |
 | [0396-rotate-function](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0788-rotated-digits/) | Medium |
@@ -532,6 +534,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0526-beautiful-arrangement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
@@ -710,6 +713,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0046-permutations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0051-n-queens/) | Hard |
+| [0526-beautiful-arrangement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -736,4 +740,8 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0292-nim-game/) | Easy |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0526-beautiful-arrangement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 <!---LeetCode Topics End-->
