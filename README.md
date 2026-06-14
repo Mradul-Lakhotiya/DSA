@@ -145,6 +145,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3080-mark-elements-on-array-by-performing-queries/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
 | [3161-block-placement-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3161-block-placement-queries/) | Hard |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii/) | Medium |
@@ -411,6 +412,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3080-mark-elements-on-array-by-performing-queries/) | Medium |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
 | [3531-count-covered-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3531-count-covered-buildings/) | Medium |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -476,6 +478,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2928-distribute-candies-among-children-i/) | Easy |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -638,6 +641,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sliding Window
