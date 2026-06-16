@@ -154,6 +154,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3225-maximum-score-from-grid-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3350-adjacent-increasing-subarrays-detection-ii/) | Medium |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -293,6 +294,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [3161-block-placement-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3350-adjacent-increasing-subarrays-detection-ii/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
