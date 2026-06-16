@@ -61,6 +61,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0198-house-robber](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0198-house-robber/) | Medium |
+| [0221-maximal-square](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0221-maximal-square/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0396-rotate-function](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -188,6 +189,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0072-edit-distance](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0198-house-robber/) | Medium |
+| [0221-maximal-square](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0221-maximal-square/) | Medium |
 | [0396-rotate-function](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
@@ -219,6 +221,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0064-minimum-path-sum/) | Medium |
+| [0221-maximal-square](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0221-maximal-square/) | Medium |
 | [0994-rotting-oranges](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
