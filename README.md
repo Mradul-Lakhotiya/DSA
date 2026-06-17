@@ -486,6 +486,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3477-fruits-into-baskets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Enumeration
@@ -541,6 +542,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3498-reverse-degree-of-a-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
