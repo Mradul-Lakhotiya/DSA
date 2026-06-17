@@ -143,6 +143,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2909-minimum-sum-of-mountain-triplets-ii/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3035-maximum-palindromes-after-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
