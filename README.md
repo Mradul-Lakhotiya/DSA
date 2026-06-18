@@ -261,6 +261,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0633-sum-of-square-numbers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0788-rotated-digits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1323-maximum-69-number](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1323-maximum-69-number/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1922-count-good-numbers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1922-count-good-numbers/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
