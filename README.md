@@ -64,6 +64,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0198-house-robber](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0198-house-robber/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0221-maximal-square](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0221-maximal-square/) | Medium |
+| [0260-single-number-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0396-rotate-function](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0396-rotate-function/) | Medium |
@@ -586,6 +587,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0137-single-number-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
