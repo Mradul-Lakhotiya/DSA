@@ -58,6 +58,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0051-n-queens](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0051-n-queens/) | Hard |
 | [0064-minimum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0137-single-number-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0198-house-robber](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0198-house-robber/) | Medium |
@@ -582,6 +583,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
