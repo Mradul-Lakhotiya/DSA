@@ -198,6 +198,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0070-climbing-stairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0198-house-robber/) | Medium |
 | [0221-maximal-square](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0221-maximal-square/) | Medium |
 | [0396-rotate-function](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0396-rotate-function/) | Medium |
@@ -528,6 +529,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0072-edit-distance/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
@@ -799,6 +801,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0046-permutations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0051-n-queens/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
