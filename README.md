@@ -607,6 +607,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0231-power-of-two](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
