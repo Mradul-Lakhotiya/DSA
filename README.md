@@ -226,6 +226,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3660-jump-game-ix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3660-jump-game-ix/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -289,6 +290,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3618-split-array-by-prime-indices](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
