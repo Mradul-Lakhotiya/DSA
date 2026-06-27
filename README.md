@@ -153,6 +153,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2909-minimum-sum-of-mountain-triplets-ii/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3080-mark-elements-on-array-by-performing-queries/) | Medium |
@@ -402,6 +403,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3080-mark-elements-on-array-by-performing-queries/) | Medium |
@@ -530,6 +532,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2928-distribute-candies-among-children-i/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
