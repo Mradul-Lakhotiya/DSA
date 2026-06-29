@@ -282,6 +282,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1922-count-good-numbers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1922-count-good-numbers/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2063-vowels-of-all-substrings/) | Medium |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2849-determine-if-a-cell-is-reachable-at-a-given-time/) | Medium |
 | [2928-distribute-candies-among-children-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -351,6 +352,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii/) | Medium |
