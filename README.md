@@ -530,6 +530,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Simulation
@@ -675,6 +676,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -817,6 +819,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1791-find-center-of-star-graph/) | Easy |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Binary Tree
@@ -854,6 +857,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
