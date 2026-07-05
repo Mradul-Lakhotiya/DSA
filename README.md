@@ -97,6 +97,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1202-smallest-string-with-swaps](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1345-jump-game-iv/) | Hard |
@@ -218,6 +219,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0788-rotated-digits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
@@ -249,6 +251,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0221-maximal-square](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0221-maximal-square/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0994-rotting-oranges](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0994-rotting-oranges/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
