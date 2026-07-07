@@ -113,6 +113,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -480,6 +481,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1451-rearrange-words-in-a-sentence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1840-maximum-building-height/) | Hard |
