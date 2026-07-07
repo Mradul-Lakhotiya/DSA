@@ -67,6 +67,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0221-maximal-square](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0221-maximal-square/) | Medium |
 | [0260-single-number-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0322-coin-change](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0322-coin-change/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0396-rotate-function](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0436-find-right-interval](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0436-find-right-interval/) | Medium |
@@ -213,6 +214,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0131-palindrome-partitioning](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0198-house-robber/) | Medium |
 | [0221-maximal-square](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0221-maximal-square/) | Medium |
+| [0322-coin-change](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
@@ -674,6 +676,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0322-coin-change/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0815-bus-routes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0815-bus-routes/) | Hard |
