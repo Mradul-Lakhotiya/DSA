@@ -184,6 +184,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3477-fruits-into-baskets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3531-count-covered-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3531-count-covered-buildings/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -352,6 +353,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3350-adjacent-increasing-subarrays-detection-ii/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -450,6 +452,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3531-count-covered-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3531-count-covered-buildings/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
@@ -842,6 +845,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1791-find-center-of-star-graph](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -880,6 +884,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
