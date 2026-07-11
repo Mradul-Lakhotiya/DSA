@@ -3,6 +3,7 @@ class Solution {
     int[] nums;
     Boolean[][] dp;
     int totalSum = 0;
+    boolean flag = false;
 
     public boolean canPartition(int[] nums) {
         n = nums.length;
@@ -18,6 +19,7 @@ class Solution {
 
     boolean helper(int i, int sum) {
         if (i == n && sum == 0) {
+            flag = true;
             return true;
         }
 
@@ -27,6 +29,10 @@ class Solution {
 
         if (dp[i][sum + totalSum] != null) {
             return dp[i][sum + totalSum];
+        }
+
+        if (flag) {
+            return true;
         }
 
         return dp[i][sum + totalSum] = helper(i + 1, sum + nums[i]) || helper(i + 1, sum - nums[i]);
