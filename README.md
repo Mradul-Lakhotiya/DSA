@@ -66,6 +66,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0216-combination-sum-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0221-maximal-square](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0221-maximal-square/) | Medium |
 | [0260-single-number-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0260-single-number-iii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0322-coin-change](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0322-coin-change/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -219,6 +220,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0131-palindrome-partitioning](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0198-house-robber/) | Medium |
 | [0221-maximal-square](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0221-maximal-square/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -334,6 +336,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0222-count-complete-tree-nodes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0278-first-bad-version](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0278-first-bad-version/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0436-find-right-interval](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0436-find-right-interval/) | Medium |
 | [0441-arranging-coins](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0441-arranging-coins/) | Easy |
