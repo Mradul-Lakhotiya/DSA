@@ -586,6 +586,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1291-sequential-digits/) | Medium |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2928-distribute-candies-among-children-i/) | Easy |
