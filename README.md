@@ -545,6 +545,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0098-validate-binary-search-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0565-array-nesting](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0565-array-nesting/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -839,6 +840,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0222-count-complete-tree-nodes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -867,6 +869,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0222-count-complete-tree-nodes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0623-add-one-row-to-tree/) | Medium |
