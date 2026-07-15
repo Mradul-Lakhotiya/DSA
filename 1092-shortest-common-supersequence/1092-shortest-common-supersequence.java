@@ -1,56 +1,92 @@
 class Solution {
+    char[] str1;
+    char[] str2;
+    int n;
+    int m;
+    int[][] dp;
+
     public String shortestCommonSupersequence(String str1, String str2) {
-        // Step 1: Find the longest common subsequence using dynamic programming
-        int m = str1.length();
-        int n = str2.length();
-        int[][] dp = new int[m + 1][n + 1];
-        
-        // Fill the dp table
-        for (int i = 1; i <= m; i++) {
-            for (int j = 1; j <= n; j++) {
-                if (str1.charAt(i - 1) == str2.charAt(j - 1)) {
-                    dp[i][j] = 1 + dp[i - 1][j - 1];
-                } else {
-                    dp[i][j] = Math.max(dp[i - 1][j], dp[i][j - 1]);
-                }
+        this.str1 = str1.toCharArray();
+        this.str2 = str2.toCharArray();
+
+        this.n = str1.length();
+        this.m   = str2.length();
+
+        this.dp = new int[n + 1][m + 1];
+
+        for (int[] x : dp) {
+            Arrays.fill(x, -1);
+        } 
+
+        int len = getLCS(0, 0);
+
+        int i = 0;
+        int j = 0;
+        StringBuilder lcs = new StringBuilder();
+
+        while (i < n && j < m) {
+            if (this.str1[i] == this.str2[j]) {
+                lcs.append(this.str1[i]);
+                i++;
+                j++;
+            } 
+            else if (dp[i + 1][j] >= dp[i][j + 1]) {
+                i++;
+            } 
+            else {
+                j++;
             }
         }
-        
-        // Step 2: Construct the shortest common supersequence
-        // Start from the bottom right of the dp table
-        int i = m, j = n;
-        StringBuilder result = new StringBuilder();
-        
-        while (i > 0 && j > 0) {
-            if (str1.charAt(i - 1) == str2.charAt(j - 1)) {
-                // If the characters are the same, add it once
-                result.append(str1.charAt(i - 1));
-                i--;
-                j--;
-            } else if (dp[i - 1][j] > dp[i][j - 1]) {
-                // If coming from top has higher value, take character from str1
-                result.append(str1.charAt(i - 1));
-                i--;
-            } else {
-                // Otherwise, take character from str2
-                result.append(str2.charAt(j - 1));
-                j--;
+
+        StringBuilder ans = new StringBuilder();
+        i = 0;
+        j = 0;
+
+        for (char c : lcs.toString().toCharArray()) {
+            while (str1.charAt(i) != c) {
+                ans.append(str1.charAt(i));
+                i++;
             }
+
+            while (str2.charAt(j) != c) {
+                ans.append(str2.charAt(j));
+                j++;
+            }
+
+            ans.append(c);
+            i++;
+            j++;
         }
-        
-        // Add remaining characters from str1 (if any)
-        while (i > 0) {
-            result.append(str1.charAt(i - 1));
-            i--;
+
+        while (i < str1.length()) {
+            ans.append(str1.charAt(i++));
         }
-        
-        // Add remaining characters from str2 (if any)
-        while (j > 0) {
-            result.append(str2.charAt(j - 1));
-            j--;
+
+        while (j < str2.length()) {
+            ans.append(str2.charAt(j++));
         }
-        
-        // Reverse the result to get the final supersequence
-        return result.reverse().toString();
+
+        return ans.toString();
+
+    }
+
+    int getLCS(int i, int j) {
+        if (i == n || j == m) {
+            return 0;
+        }
+
+        if (dp[i][j] != -1) {
+            return dp[i][j];
+        }
+
+        int takeAll = 0;
+        if (str1[i] == str2[j]) {
+            takeAll = 1 + getLCS(i + 1, j + 1);
+        }
+
+        int picki = getLCS(i + 1, j);
+        int pickj = getLCS(i, j + 1);
+
+        return dp[i][j] = Math.max(picki, Math.max(pickj, takeAll));
     }
 }
