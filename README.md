@@ -181,6 +181,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3350-adjacent-increasing-subarrays-detection-ii/) | Medium |
 | [3386-button-with-longest-push-time](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3386-button-with-longest-push-time/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
@@ -248,6 +249,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -319,6 +321,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -933,6 +936,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3618-split-array-by-prime-indices](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
