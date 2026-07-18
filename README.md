@@ -133,6 +133,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1861-rotating-the-box](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1861-rotating-the-box/) | Medium |
 | [1895-largest-magic-square](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1895-largest-magic-square/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2013-detect-squares](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2013-detect-squares/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -314,6 +315,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1840-maximum-building-height](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1840-maximum-building-height/) | Hard |
 | [1922-count-good-numbers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1922-count-good-numbers/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
@@ -943,6 +945,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3618-split-array-by-prime-indices](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
