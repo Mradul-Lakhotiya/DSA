@@ -386,6 +386,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0767-reorganize-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0767-reorganize-string/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0881-boats-to-save-people/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1323-maximum-69-number](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1323-maximum-69-number/) | Easy |
@@ -635,6 +636,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0796-rotate-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0796-rotate-string/) | Easy |
 | [0820-short-encoding-of-words](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -687,6 +689,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0901-online-stock-span](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1544-make-the-string-great](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1544-make-the-string-great/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2751-robot-collisions/) | Hard |
@@ -699,6 +702,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0901-online-stock-span](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
