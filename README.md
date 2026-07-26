@@ -83,6 +83,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0565-array-nesting](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0565-array-nesting/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0735-asteroid-collision](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -313,6 +314,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0441-arranging-coins](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0788-rotated-digits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0788-rotated-digits/) | Medium |
@@ -503,6 +505,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0767-reorganize-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0767-reorganize-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0881-boats-to-save-people/) | Medium |
