@@ -114,6 +114,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1487-making-file-names-unique](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1487-making-file-names-unique/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -427,6 +428,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0023-merge-k-sorted-lists](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0767-reorganize-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0767-reorganize-string/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3080-mark-elements-on-array-by-performing-queries/) | Medium |
@@ -520,6 +522,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
