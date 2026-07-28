@@ -546,6 +546,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3035-maximum-palindromes-after-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3080-mark-elements-on-array-by-performing-queries/) | Medium |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3531-count-covered-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3531-count-covered-buildings/) | Medium |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -688,6 +689,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -812,6 +814,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
