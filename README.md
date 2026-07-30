@@ -331,6 +331,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2849-determine-if-a-cell-is-reachable-at-a-given-time/) | Medium |
 | [2928-distribute-candies-among-children-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -414,6 +415,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3035-maximum-palindromes-after-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -682,6 +684,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3035-maximum-palindromes-after-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
