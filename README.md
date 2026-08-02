@@ -216,6 +216,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3755-find-maximum-balanced-xor-subarray-length/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -500,6 +501,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3755-find-maximum-balanced-xor-subarray-length/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -576,6 +578,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3699-number-of-zigzag-arrays-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3755-find-maximum-balanced-xor-subarray-length/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -743,6 +746,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3755-find-maximum-balanced-xor-subarray-length/) | Medium |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
