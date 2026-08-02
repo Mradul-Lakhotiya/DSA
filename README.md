@@ -93,6 +93,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0822-card-flipping-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0822-card-flipping-game/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0994-rotting-oranges](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0994-rotting-oranges/) | Medium |
@@ -242,6 +243,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0646-maximum-length-of-pair-chain](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
@@ -319,6 +321,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0633-sum-of-square-numbers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0788-rotated-digits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0877-stone-game/) | Medium |
 | [1323-maximum-69-number](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1323-maximum-69-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
@@ -940,6 +943,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0877-stone-game/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
