@@ -175,6 +175,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2909-minimum-sum-of-mountain-triplets-ii/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -487,6 +488,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
@@ -870,6 +872,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
