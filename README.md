@@ -494,6 +494,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3035-maximum-palindromes-after-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3080-mark-elements-on-array-by-performing-queries/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -702,6 +703,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3035-maximum-palindromes-after-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -874,6 +876,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
