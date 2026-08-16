@@ -142,6 +142,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2013-detect-squares](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2013-detect-squares/) | Medium |
+| [2029-stone-game-ix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2126-destroying-asteroids/) | Medium |
@@ -334,6 +335,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1840-maximum-building-height](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1840-maximum-building-height/) | Hard |
 | [1922-count-good-numbers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1922-count-good-numbers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
@@ -416,6 +418,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1833-maximum-ice-cream-bars](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
+| [2029-stone-game-ix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
@@ -829,6 +832,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1189-maximum-number-of-balloons](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2013-detect-squares](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2013-detect-squares/) | Medium |
+| [2029-stone-game-ix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -962,6 +966,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1140-stone-game-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2029-stone-game-ix/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1038,8 +1043,14 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1140-stone-game-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1140-stone-game-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
