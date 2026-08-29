@@ -1,35 +1,40 @@
 class Solution {
     public int[] lexicographicallySmallestArray(int[] nums, int limit) {
-    int sortArr[] = new int[nums.length];
-    for(int i=0; i<nums.length; i++)
-    sortArr[i] = nums[i];
-    Arrays.sort(sortArr);
+        int n = nums.length;
+        int[][] arr = new int[n][2];
 
-    HashMap<Integer, Integer> myGroup = new HashMap<>();
-    HashMap<Integer, LinkedList<Integer>>groupMember = new HashMap<>();
-    int groupKey = 0; 
-    
-    myGroup.put(sortArr[0], groupKey);
-    groupMember.put(groupKey, new LinkedList<Integer>(Arrays.asList(sortArr[0])));
+        for (int i = 0; i < n; i++) {
+            arr[i][0] = nums[i];
+            arr[i][1] = i;
+        }
 
-    for(int i=1; i<nums.length; i++)
-    {
-       if(Math.abs(sortArr[i]-sortArr[i-1])>limit)
-       groupKey++;
-       myGroup.put(sortArr[i], groupKey);
-       
-       if(!groupMember.containsKey(groupKey))
-       groupMember.put(groupKey, new LinkedList<Integer>());
+        Arrays.sort(arr, (a, b) -> Integer.compare(a[0], b[0]));
 
-       groupMember.get(groupKey).add(sortArr[i]);
-    }
-   for(int i=0; i<nums.length; i++)
-   {
-     int currNum = nums[i];
-     int groupNumber = myGroup.get(currNum);
-     nums[i] = groupMember.get(groupNumber).pop();
-   }
-    return nums; 
+        int start = 0;
 
+        while (start < n) {
+            int end = start;
+
+            while (end + 1 < n &&
+                   arr[end + 1][0] - arr[end][0] <= limit) {
+                end++;
+            }
+
+            int[] indices = new int[end - start + 1];
+
+            for (int i = start; i <= end; i++) {
+                indices[i - start] = arr[i][1];
+            }
+
+            Arrays.sort(indices);
+
+            for (int i = 0; i < indices.length; i++) {
+                nums[indices[i]] = arr[start + i][0];
+            }
+
+            start = end + 1;
+        }
+
+        return nums;
     }
 }
