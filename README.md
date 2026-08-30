@@ -318,6 +318,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0060-permutation-sequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0258-add-digits/) | Easy |
