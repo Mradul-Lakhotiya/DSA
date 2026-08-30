@@ -318,6 +318,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0060-permutation-sequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0292-nim-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0292-nim-game/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -458,6 +459,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0202-happy-number](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -851,6 +853,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0061-rotate-list/) | Medium |
+| [0202-happy-number](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0202-happy-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
@@ -1058,4 +1061,8 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2029-stone-game-ix/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
