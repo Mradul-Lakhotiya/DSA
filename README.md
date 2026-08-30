@@ -325,6 +325,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0096-unique-binary-search-trees](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0231-power-of-two/) | Easy |
@@ -685,6 +686,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0072-edit-distance](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0242-valid-anagram](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
