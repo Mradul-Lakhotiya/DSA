@@ -64,6 +64,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0198-house-robber](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0198-house-robber/) | Medium |
+| [0204-count-primes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0204-count-primes/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0221-maximal-square](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0221-maximal-square/) | Medium |
 | [0260-single-number-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0260-single-number-iii/) | Medium |
@@ -329,6 +330,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0171-excel-sheet-column-number](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0292-nim-game/) | Easy |
@@ -669,6 +671,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0204-count-primes/) | Medium |
 | [1291-sequential-digits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1291-sequential-digits/) | Medium |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -1036,6 +1039,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -1106,4 +1110,16 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0149-max-points-on-a-line/) | Hard |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
