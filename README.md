@@ -230,6 +230,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3838-weighted-word-mapping](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -381,6 +382,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3783-mirror-distance-of-an-integer](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
