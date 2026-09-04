@@ -625,6 +625,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0094-binary-tree-inorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -798,6 +799,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0322-coin-change](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0322-coin-change/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -834,6 +836,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0061-rotate-list/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -946,6 +949,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0096-unique-binary-search-trees](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0222-count-complete-tree-nodes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -977,6 +981,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0096-unique-binary-search-trees](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0222-count-complete-tree-nodes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
