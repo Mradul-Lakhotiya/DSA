@@ -231,6 +231,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -619,6 +620,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3755-find-maximum-balanced-xor-subarray-length/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
