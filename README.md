@@ -240,6 +240,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0070-climbing-stairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0198-house-robber/) | Medium |
@@ -695,6 +696,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0072-edit-distance/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
