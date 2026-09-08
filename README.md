@@ -339,6 +339,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0231-power-of-two](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0258-add-digits/) | Easy |
 | [0279-perfect-squares](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0279-perfect-squares/) | Medium |
+| [0282-expression-add-operators](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0282-expression-add-operators/) | Hard |
 | [0292-nim-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0292-nim-game/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0396-rotate-function](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0396-rotate-function/) | Medium |
@@ -705,6 +706,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0168-excel-sheet-column-title](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0282-expression-add-operators](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0282-expression-add-operators/) | Hard |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
@@ -1044,6 +1046,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0089-gray-code](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0089-gray-code/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0216-combination-sum-iii/) | Medium |
+| [0282-expression-add-operators](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0282-expression-add-operators/) | Hard |
 | [0494-target-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0494-target-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
