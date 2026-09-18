@@ -184,6 +184,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3080-mark-elements-on-array-by-performing-queries/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
@@ -675,6 +676,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2596-check-knight-tour-configuration](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2751-robot-collisions](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3080-mark-elements-on-array-by-performing-queries/) | Medium |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
@@ -916,6 +918,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
