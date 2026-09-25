@@ -94,6 +94,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0815-bus-routes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0815-bus-routes/) | Hard |
 | [0820-short-encoding-of-words](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0822-card-flipping-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0822-card-flipping-game/) | Medium |
+| [0870-advantage-shuffle](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0870-advantage-shuffle/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0877-stone-game/) | Medium |
@@ -440,6 +441,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0646-maximum-length-of-pair-chain](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0767-reorganize-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0767-reorganize-string/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0781-rabbits-in-forest/) | Medium |
+| [0870-advantage-shuffle](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0870-advantage-shuffle/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1090-largest-values-from-labels/) | Medium |
@@ -569,6 +571,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0628-maximum-product-of-three-numbers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0767-reorganize-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0767-reorganize-string/) | Medium |
+| [0870-advantage-shuffle](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0870-advantage-shuffle/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1090-largest-values-from-labels](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1090-largest-values-from-labels/) | Medium |
@@ -917,6 +920,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0870-advantage-shuffle](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0870-advantage-shuffle/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [1332-remove-palindromic-subsequences](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
