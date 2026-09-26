@@ -137,6 +137,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1732-find-the-highest-altitude](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -524,6 +525,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2013-detect-squares](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2013-detect-squares/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
@@ -754,6 +756,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1544-make-the-string-great](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1544-make-the-string-great/) | Easy |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2063-vowels-of-all-substrings/) | Medium |
