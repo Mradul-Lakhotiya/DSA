@@ -60,6 +60,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0055-jump-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0134-gas-station](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0134-gas-station/) | Medium |
 | [0137-single-number-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -439,6 +440,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0055-jump-game/) | Medium |
+| [0134-gas-station](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0134-gas-station/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
