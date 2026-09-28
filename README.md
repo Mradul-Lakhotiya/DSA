@@ -760,6 +760,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1507-reformat-date](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1507-reformat-date/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1544-make-the-string-great](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1544-make-the-string-great/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1871-jump-game-vii/) | Medium |
@@ -811,6 +812,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1096-brace-expansion-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1544-make-the-string-great](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1544-make-the-string-great/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2751-robot-collisions/) | Hard |
 ## Monotonic Stack
@@ -1198,4 +1200,5 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
