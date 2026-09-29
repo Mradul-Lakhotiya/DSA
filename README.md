@@ -159,6 +159,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -280,6 +281,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1871-jump-game-vii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -314,6 +316,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1895-largest-magic-square](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1895-largest-magic-square/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2352-equal-row-and-column-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
@@ -1201,4 +1204,5 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
