@@ -244,6 +244,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0055-jump-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0064-minimum-path-sum/) | Medium |
@@ -729,6 +730,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0115-distinct-subsequences/) | Hard |
@@ -1090,6 +1092,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0051-n-queens/) | Hard |
 | [0089-gray-code](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0089-gray-code/) | Medium |
@@ -1205,6 +1208,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
