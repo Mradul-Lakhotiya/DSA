@@ -268,6 +268,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0526-beautiful-arrangement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0877-stone-game/) | Medium |
@@ -450,6 +451,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0767-reorganize-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0767-reorganize-string/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0870-advantage-shuffle](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0870-advantage-shuffle/) | Medium |
@@ -749,6 +751,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0556-next-greater-element-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0767-reorganize-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0767-reorganize-string/) | Medium |
 | [0796-rotate-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0796-rotate-string/) | Easy |
 | [0820-short-encoding-of-words](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0820-short-encoding-of-words/) | Medium |
@@ -814,6 +817,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0503-next-greater-element-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -1213,6 +1217,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0020-valid-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
