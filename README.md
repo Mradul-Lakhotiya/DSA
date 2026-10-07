@@ -748,6 +748,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0171-excel-sheet-column-number](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0282-expression-add-operators](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0282-expression-add-operators/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -872,6 +873,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0279-perfect-squares/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0322-coin-change/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -1118,6 +1120,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0131-palindrome-partitioning](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0282-expression-add-operators](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0282-expression-add-operators/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0494-target-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
