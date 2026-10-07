@@ -53,6 +53,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0041-first-missing-positive](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0049-group-anagrams/) | Medium |
@@ -509,6 +510,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0149-max-points-on-a-line/) | Hard |
