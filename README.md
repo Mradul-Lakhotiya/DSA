@@ -158,6 +158,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2145-count-the-hidden-sequences](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2145-count-the-hidden-sequences/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
@@ -649,6 +650,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1732-find-the-highest-altitude](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1895-largest-magic-square](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1895-largest-magic-square/) | Medium |
+| [2145-count-the-hidden-sequences](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2145-count-the-hidden-sequences/) | Medium |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2615-sum-of-distances/) | Medium |
