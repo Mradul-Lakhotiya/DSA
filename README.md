@@ -380,6 +380,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2600-k-items-with-the-maximum-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2849-determine-if-a-cell-is-reachable-at-a-given-time/) | Medium |
 | [2928-distribute-candies-among-children-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2928-distribute-candies-among-children-i/) | Easy |
+| [2939-maximum-xor-product](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2939-maximum-xor-product/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -480,6 +481,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
+| [2939-maximum-xor-product](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2939-maximum-xor-product/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3035-maximum-palindromes-after-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii/) | Medium |
@@ -858,6 +860,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [2939-maximum-xor-product](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2939-maximum-xor-product/) | Medium |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
