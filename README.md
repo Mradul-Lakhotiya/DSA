@@ -521,6 +521,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0242-valid-anagram](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0460-lfu-cache](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -911,6 +912,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0155-min-stack/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0460-lfu-cache](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0460-lfu-cache/) | Hard |
 | [0901-online-stock-span](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0901-online-stock-span/) | Medium |
 | [2013-detect-squares](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2013-detect-squares/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2069-walking-robot-simulation-ii/) | Medium |
@@ -920,6 +922,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0023-merge-k-sorted-lists](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0460-lfu-cache](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0460-lfu-cache/) | Hard |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -1247,4 +1250,8 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0460-lfu-cache](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->
