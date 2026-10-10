@@ -60,6 +60,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0051-n-queens](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0134-gas-station/) | Medium |
@@ -591,6 +592,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -1273,4 +1275,8 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0207-course-schedule/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
