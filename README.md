@@ -683,6 +683,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0113-path-sum-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0207-course-schedule](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0565-array-nesting](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0565-array-nesting/) | Medium |
@@ -889,6 +890,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0207-course-schedule](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0279-perfect-squares](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0322-coin-change/) | Medium |
@@ -1069,6 +1071,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0207-course-schedule/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -1191,6 +1194,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0207-course-schedule/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
@@ -1265,4 +1269,8 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0460-lfu-cache](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0460-lfu-cache/) | Hard |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
