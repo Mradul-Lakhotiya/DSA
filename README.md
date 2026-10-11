@@ -150,6 +150,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1848-minimum-distance-to-the-target-element](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1861-rotating-the-box/) | Medium |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1879-minimum-xor-sum-of-two-arrays/) | Hard |
 | [1895-largest-magic-square](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1895-largest-magic-square/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -289,6 +290,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1363-largest-multiple-of-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1871-jump-game-vii/) | Medium |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1879-minimum-xor-sum-of-two-arrays/) | Hard |
 | [2063-vowels-of-all-substrings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -879,6 +881,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0260-single-number-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1879-minimum-xor-sum-of-two-arrays/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2939-maximum-xor-product](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2939-maximum-xor-product/) | Medium |
@@ -1188,6 +1191,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0526-beautiful-arrangement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1879-minimum-xor-sum-of-two-arrays/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1279,4 +1283,16 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0056-merge-intervals/) | Medium |
+## Hungarian Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1879-minimum-xor-sum-of-two-arrays/) | Hard |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1879-minimum-xor-sum-of-two-arrays/) | Hard |
+## Successive Shortest Path Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1879-minimum-xor-sum-of-two-arrays/) | Hard |
 <!---LeetCode Topics End-->
