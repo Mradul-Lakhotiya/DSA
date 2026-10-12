@@ -190,6 +190,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2909-minimum-sum-of-mountain-triplets-ii/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -492,6 +493,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2939-maximum-xor-product](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2939-maximum-xor-product/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3035-maximum-palindromes-after-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
@@ -565,6 +567,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2784-check-if-array-is-good](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
@@ -884,6 +887,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1879-minimum-xor-sum-of-two-arrays/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2939-maximum-xor-product](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2939-maximum-xor-product/) | Medium |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
