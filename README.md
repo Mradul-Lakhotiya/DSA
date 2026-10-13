@@ -235,6 +235,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3660-jump-game-ix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3660-jump-game-ix/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3693-climbing-stairs-ii/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -504,6 +505,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -655,6 +657,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
