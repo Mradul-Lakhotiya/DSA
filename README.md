@@ -51,6 +51,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0041-first-missing-positive/) | Hard |
@@ -525,6 +526,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
