@@ -271,6 +271,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0279-perfect-squares](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0322-coin-change/) | Medium |
+| [0343-integer-break](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0343-integer-break/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0396-rotate-function](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -368,6 +369,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0279-perfect-squares](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0282-expression-add-operators](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0282-expression-add-operators/) | Hard |
 | [0292-nim-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0292-nim-game/) | Easy |
+| [0343-integer-break](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0343-integer-break/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0396-rotate-function](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0441-arranging-coins](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0441-arranging-coins/) | Easy |
