@@ -1049,6 +1049,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3161-block-placement-queries/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -1191,6 +1192,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3161-block-placement-queries/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
