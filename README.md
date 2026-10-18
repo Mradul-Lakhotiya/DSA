@@ -421,6 +421,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3870-count-commas-in-range](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -763,6 +764,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -844,6 +846,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3614-process-string-with-special-operations-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
