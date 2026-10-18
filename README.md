@@ -397,6 +397,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2939-maximum-xor-product](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2939-maximum-xor-product/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -741,6 +742,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3080-mark-elements-on-array-by-performing-queries/) | Medium |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
