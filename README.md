@@ -1085,6 +1085,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Graph Theory
@@ -1117,6 +1118,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
