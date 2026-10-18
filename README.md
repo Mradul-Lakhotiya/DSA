@@ -89,6 +89,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0496-next-greater-element-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0565-array-nesting](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0565-array-nesting/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
@@ -436,6 +437,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0436-find-right-interval](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0436-find-right-interval/) | Medium |
 | [0441-arranging-coins](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0441-arranging-coins/) | Easy |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -543,6 +545,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0424-longest-repeating-character-replacement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0460-lfu-cache](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0767-reorganize-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0767-reorganize-string/) | Medium |
@@ -613,6 +616,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0368-largest-divisible-subset](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0436-find-right-interval](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -1009,6 +1013,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0202-happy-number](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0567-permutation-in-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
