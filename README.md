@@ -952,6 +952,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0023-merge-k-sorted-lists](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0460-lfu-cache/) | Hard |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
