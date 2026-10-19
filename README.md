@@ -161,6 +161,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [2029-stone-game-ix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
@@ -447,6 +448,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1539-kth-missing-positive-number](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -648,6 +650,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
