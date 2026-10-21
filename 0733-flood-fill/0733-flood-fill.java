@@ -19,7 +19,7 @@ class Solution {
         
         vis[sr][sc] = true;
         image[sr][sc] = color;
-        bfs(sr, sc);
+        dfs(sr, sc);
 
         return image;
     }
@@ -30,7 +30,7 @@ class Solution {
                 image[nx][ny] == t && !vis[nx][ny]);
     }
 
-    void bfs(int x, int y) {
+    void dfs(int x, int y) {
         for (int i = 0; i < 4; i++) {
             int nx = x + dx[i];
             int ny = y + dy[i];
@@ -38,7 +38,7 @@ class Solution {
             if (isValid(nx, ny)) {
                 vis[nx][ny] = true;
                 image[nx][ny] = color;
-                bfs(nx, ny);
+                dfs(nx, ny);
             }
         }
     }
