@@ -64,6 +64,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0056-merge-intervals](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0134-gas-station/) | Medium |
 | [0137-single-number-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0149-max-points-on-a-line/) | Hard |
@@ -326,6 +327,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0064-minimum-path-sum/) | Medium |
+| [0130-surrounded-regions](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0221-maximal-square](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0221-maximal-square/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0542-01-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0542-01-matrix/) | Medium |
@@ -715,6 +717,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0113-path-sum-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0130-surrounded-regions](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -932,6 +935,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0130-surrounded-regions](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0279-perfect-squares](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -1172,6 +1176,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
