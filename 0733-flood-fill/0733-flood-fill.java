@@ -13,9 +13,10 @@ class Solution {
         this.color = color;
         this.vis = new boolean[n][m];
         
-        bfs(sr, sc);
+        
         vis[sr][sc] = true;
         image[sr][sc] = color;
+        bfs(sr, sc);
 
         return image;
     }
