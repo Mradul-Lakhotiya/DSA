@@ -12,7 +12,10 @@ class Solution {
         this.t = image[sr][sc];
         this.color = color;
         this.vis = new boolean[n][m];
-        
+
+        if (t == color) {
+            return image;
+        }
         
         vis[sr][sc] = true;
         image[sr][sc] = color;
