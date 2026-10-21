@@ -91,6 +91,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0526-beautiful-arrangement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0542-01-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0565-array-nesting](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0565-array-nesting/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -282,6 +283,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0486-predict-the-winner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0494-target-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0542-01-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -326,6 +328,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0064-minimum-path-sum](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0221-maximal-square](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0221-maximal-square/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0542-01-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1020-number-of-enclaves/) | Medium |
@@ -934,6 +937,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0301-remove-invalid-parentheses](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0322-coin-change/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [0542-01-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0733-flood-fill/) | Easy |
