@@ -855,6 +855,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3614-process-string-with-special-operations-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
