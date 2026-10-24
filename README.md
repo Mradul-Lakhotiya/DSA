@@ -727,6 +727,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0623-add-one-row-to-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
@@ -947,6 +948,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0623-add-one-row-to-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0815-bus-routes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0815-bus-routes/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0994-rotting-oranges/) | Medium |
@@ -1132,6 +1134,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0207-course-schedule](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -1263,6 +1266,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0207-course-schedule/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
@@ -1362,4 +1366,12 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
