@@ -122,6 +122,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1122-relative-sort-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1140-stone-game-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -334,6 +335,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0733-flood-fill](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -734,6 +736,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0988-smallest-string-starting-from-leaf](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -957,6 +960,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1020-number-of-enclaves](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
@@ -1190,6 +1194,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0785-is-graph-bipartite](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
