@@ -119,6 +119,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [1020-number-of-enclaves](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1090-largest-values-from-labels/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1122-relative-sort-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1140-stone-game-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -335,6 +336,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0733-flood-fill](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -958,6 +960,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
