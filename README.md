@@ -293,6 +293,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0646-maximum-length-of-pair-chain](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0788-rotated-digits](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -540,6 +541,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0767-reorganize-string](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0767-reorganize-string/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -738,6 +740,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0623-add-one-row-to-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -963,6 +966,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0623-add-one-row-to-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0815-bus-routes](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0815-bus-routes/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -1154,6 +1158,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [0210-course-schedule-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/Mradul-Lakhotiya/DSA/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mradul-Lakhotiya/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -1283,6 +1288,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Mradul-Lakhotiya/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
