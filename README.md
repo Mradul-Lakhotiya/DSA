@@ -260,6 +260,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -326,6 +327,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -366,6 +368,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -948,6 +951,7 @@ _For questions, suggestions, or to collaborate, open an issue or pull request!_
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3755-find-maximum-balanced-xor-subarray-length/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Mradul-Lakhotiya/DSA/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
